@@ -3,11 +3,11 @@
 Backend-focused developer building AI-powered simulation and machine learning systems with Python.
 
 Interested in:
-• Backend Development
-• FastAPI & APIs
-• Machine Learning
-• Simulation Engineering
-• Computational Modeling
+- Backend Development
+- FastAPI & APIs
+- Machine Learning
+- Simulation Engineering
+- Computational Modeling
 
 I enjoy building technical projects that combine mathematics, algorithms, and software engineering to model real-world systems.
 

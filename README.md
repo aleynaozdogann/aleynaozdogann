@@ -1,11 +1,13 @@
 # Hi, I'm Aleyna Özdoğan
 
-Mathematics graduate interested in:
+Backend-focused developer building AI-powered simulation and machine learning systems with Python.
 
-- Machine Learning
-- Python Development
-- Simulation Engineering
-- Computational Modeling
+Interested in:
+• Backend Development
+• FastAPI & APIs
+• Machine Learning
+• Simulation Engineering
+• Computational Modeling
 
 I enjoy building technical projects that combine mathematics, algorithms, and software engineering to model real-world systems.
 

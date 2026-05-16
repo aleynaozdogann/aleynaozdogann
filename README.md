@@ -15,10 +15,11 @@ I enjoy building technical projects that combine mathematics, algorithms, and so
 
 ## Featured Projects
 
-### Sun Tracking Six-Leg Panel System
-Machine learning–enhanced simulation of a solar tracking system using a Stewart platform inspired mechanism.
+### AI Solar Tracking System
+AI-powered solar tracking simulation system combining machine learning, kinematic modeling, and real-time 3D visualization.
 
 - 3D simulation
+- FastAPI backend integration
 - kinematic modeling
 - machine learning integration
 
@@ -27,9 +28,9 @@ https://github.com/aleynaozdogann/sun-tracking-six-leg-panel-system
 
 ---
 
-### Three Axis Robotic Arm Simulation
+### 3D Robotic Arm Simulation
 
-3D robotic arm simulation developed using forward and inverse kinematics.
+3D robotic arm simulation and kinematic modeling developed in Python using forward and inverse kinematics.
 
 Project:  
 https://github.com/aleynaozdogann/three-axis-robotic-arm-simulation
@@ -39,11 +40,11 @@ https://github.com/aleynaozdogann/three-axis-robotic-arm-simulation
 ## Technologies
 
 - Python
+- FastAPI
 - NumPy
-- Pandas
-- Matplotlib
 - Scikit-learn
 - SQL
+- Matplotlib
 
 <!--
 **aleynaozdogann/aleynaozdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
